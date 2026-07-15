@@ -1,6 +1,7 @@
 # 2048 Puzzle Game
 
 A lightweight, browser-based recreation of the classic **2048** puzzle game, built using HTML5, CSS3, and vanilla JavaScript.
+You can play this game here : https://sakshitripathi-78.github.io/2048/
 
 ## 🚀 Features
 * **Smooth Gameplay:** Responsive tile movement using keyboard arrow keys.
